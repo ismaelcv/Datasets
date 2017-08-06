@@ -1,4 +1,4 @@
-,Classes 'data.table' and 'data.frame':  1460 obs. of  80 variables:
+type,Classes 'data.table' and 'data.frame':  1460 obs. of  80 variables:
 delete, $ ID
 factor, $ MSSubClass   : int  60 20 60 70 60 50 20 60 50 190 ...
 factor," $ MSZoning     : chr  ""RL"" ""RL"" ""RL"" ""RL"" ..."
